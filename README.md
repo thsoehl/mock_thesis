@@ -1,20 +1,3 @@
-# mock_thesis
+# README
 
-
-
-
-
-
-
-Added line 9
-
-
-
-
-asdas
-
-
-
-
-
-Line 20...
+These are the files for the bootcamp session on version control.
